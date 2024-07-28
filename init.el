@@ -64,6 +64,7 @@
 (require 'redos-lsp)
 (require 'redos-search)
 (require 'redos-terminal)
+(require 'redos-c-language)
 
 ;; it is done
 (provide 'init)
